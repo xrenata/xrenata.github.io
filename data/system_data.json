@@ -1,0 +1,9 @@
+{
+	"about": "<p>Hello, I am Emirhan, I am 18 years old, I am a high school graduate, I am preparing for university exams, I started software life with javascript for about 3 years.</p>",
+	"skills": "<p>JavaScript <br> TypeScript <br> Python <br>HTML <br> CSS <br> C#</p>",
+	"links": "<p>github.com/xrenata <br> hackerone.com/xrenatam <br> instagram.com/xrenatam <br> twitter.com/heprenata <br> reddit.com/xrenata<br> discord.com/users/937316083533230110 </p>",
+	"location": "<p>Eskişehir Turkey</p>",
+	"education": "<p>2018-2022 high school </p>",
+	"renata": "<p>about.txt <br> skills.txt<br> location.txt<br> links.txt<br> education.txt<br></p>",
+	"help": "<div> <ul> <li><strong>cat FILENAME</strong> - display FILENAME in window</li><li><strong>ls</strong> - show files in current directory</li><li><strong>history</strong> - see your command history</li><li><strong>clear</strong> - clear current window</ul></div>"
+}
